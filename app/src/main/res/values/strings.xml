@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Firebase Demo App</string>
+    <string name="usernameLabel">Username:</string>
+    <string name="hintText">email@domain.com</string>
+    <string name="passwordLabel">Password</string>
+    <string name="loginButtonName">Login</string>
+    <string name="password">password</string>
+    <string name="buttonLabel">Login</string>
+    <string name="defaultDetails">Sign-in for further instructions!</string>
+    <string name="planetButtonLabel">Planets</string>
+    <string name="starshipLabel">StarShips</string>
+    <string name="logoutButtonText">Logout</string>
+    <string name="welcome_emperor">Welcome Emperor %1$s!</string>
+</resources>

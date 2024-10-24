@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991380135817",
+    "project_id": "starwars-demo-project",
+    "storage_bucket": "starwars-demo-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991380135817:android:584ef16be7f9bb63efcb58",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfD8iEBlifqOfyR1cL_jF42d2fSmTM-EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
