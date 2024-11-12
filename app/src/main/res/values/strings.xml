@@ -11,4 +11,7 @@
     <string name="starshipLabel">StarShips</string>
     <string name="logoutButtonText">Logout</string>
     <string name="welcome_emperor">Welcome Emperor %1$s!</string>
+    <string name="submit_button">Submit UFO Image</string>
+    <string name="report_ufo_button_label">Report UFO</string>
+    <string name="defaultTextLabel">TextView</string>
 </resources>
